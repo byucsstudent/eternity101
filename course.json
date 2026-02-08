@@ -1,884 +1,876 @@
 {
   "title": "Thinking eternally",
-  "description": "With the context of the restored gospel of Jesus Christ we will look at the relevant skills and concepts necessary to put mortality into an eternal perspective that allows us to rejoice in every moment, success, and difficulty of this life.",
+  "links": {},
   "modules": [
     {
       "title": "Foundations of Eternal Identity",
-      "description": "Understanding our divine origins and the framework of the Plan of Salvation to establish an eternal baseline.",
       "topics": [
         {
           "title": "Overview",
-          "description": "Course introduction and objectives.",
-          "path": "README.md",
           "type": "instruction",
+          "path": "README.md",
+          "id": "84102e84-3af9-4882-b81c-64b27ba1669e",
           "state": "published",
-          "id": "84102e84-3af9-4882-b81c-64b27ba1669e"
+          "description": "Course introduction and objectives."
         },
         {
           "title": "Pre-mortal Existence",
-          "description": "Exploring our lives before coming to earth as spirit children of heavenly parents.",
-          "path": "instruction/pre-mortal-existence/pre-mortal-existence.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "0518105c-68bd-48ac-a9a9-089f62c12f4f"
+          "path": "instruction/pre-mortal-existence/pre-mortal-existence.md",
+          "id": "0518105c-68bd-48ac-a9a9-089f62c12f4f",
+          "state": "published",
+          "description": "Exploring our lives before coming to earth as spirit children of heavenly parents."
         },
         {
           "title": "The Council in Heaven",
-          "description": "Reviewing the pivotal decisions made in the grand council regarding our agency.",
-          "path": "instruction/the-council-in-heaven/the-council-in-heaven.md",
           "type": "instruction",
+          "path": "instruction/the-council-in-heaven/the-council-in-heaven.md",
+          "id": "8ab62cca-8309-4c6b-84f5-eb1eca6df8cd",
           "state": "stub",
-          "id": "8ab62cca-8309-4c6b-84f5-eb1eca6df8cd"
+          "description": "Reviewing the pivotal decisions made in the grand council regarding our agency."
         },
         {
           "title": "Divine Identity",
-          "description": "Internalizing our status as literal offspring of Deity.",
-          "path": "instruction/divine-identity/divine-identity.md",
           "type": "instruction",
+          "path": "instruction/divine-identity/divine-identity.md",
+          "id": "17cd783f-6a22-41e0-8879-3d876e2dc3fc",
           "state": "stub",
-          "id": "17cd783f-6a22-41e0-8879-3d876e2dc3fc"
+          "description": "Internalizing our status as literal offspring of Deity."
         },
         {
           "title": "The Plan of Salvation",
-          "description": "An overview of the three pillars of eternity: Creation, Fall, and Atonement.",
-          "path": "instruction/the-plan-of-salvation/the-plan-of-salvation.md",
           "type": "instruction",
+          "path": "instruction/the-plan-of-salvation/the-plan-of-salvation.md",
+          "id": "89e040a4-301d-4067-b42b-1353b30318e3",
           "state": "stub",
-          "id": "89e040a4-301d-4067-b42b-1353b30318e3"
+          "description": "An overview of the three pillars of eternity: Creation, Fall, and Atonement."
         },
         {
           "title": "Eternal Progression",
-          "description": "The concept of continuous growth and development across different spheres of existence.",
-          "path": "instruction/eternal-progression/eternal-progression.md",
           "type": "instruction",
+          "path": "instruction/eternal-progression/eternal-progression.md",
+          "id": "715e98a1-e312-445d-b7df-aa10b3d14908",
           "state": "stub",
-          "id": "715e98a1-e312-445d-b7df-aa10b3d14908"
+          "description": "The concept of continuous growth and development across different spheres of existence."
         },
         {
           "title": "The Nature of God",
-          "description": "Understanding the character and attributes of the Father to build trust.",
-          "path": "instruction/the-nature-of-god/the-nature-of-god.md",
           "type": "instruction",
+          "path": "instruction/the-nature-of-god/the-nature-of-god.md",
+          "id": "0783f26e-6040-4d6e-94bb-6b1416aef3a3",
           "state": "stub",
-          "id": "0783f26e-6040-4d6e-94bb-6b1416aef3a3"
+          "description": "Understanding the character and attributes of the Father to build trust."
         },
         {
           "title": "Moral Agency",
-          "description": "The gift and responsibility of choice in the context of eternal consequences.",
-          "path": "instruction/moral-agency/moral-agency.md",
           "type": "instruction",
+          "path": "instruction/moral-agency/moral-agency.md",
+          "id": "8710a026-24b2-4a8f-a75d-6b2249e57bc4",
           "state": "stub",
-          "id": "8710a026-24b2-4a8f-a75d-6b2249e57bc4"
+          "description": "The gift and responsibility of choice in the context of eternal consequences."
         },
         {
           "title": "The Creation",
-          "description": "The purpose behind the organization of the physical world for our growth.",
-          "path": "instruction/the-creation/the-creation.md",
           "type": "instruction",
+          "path": "instruction/the-creation/the-creation.md",
+          "id": "b0af9c33-7f10-4c20-87d0-828aecb6019c",
           "state": "stub",
-          "id": "b0af9c33-7f10-4c20-87d0-828aecb6019c"
+          "description": "The purpose behind the organization of the physical world for our growth."
         },
         {
           "title": "The Fall",
-          "description": "Recontextualizing the Fall as a necessary step for human experience and joy.",
-          "path": "instruction/the-fall/the-fall.md",
           "type": "instruction",
+          "path": "instruction/the-fall/the-fall.md",
+          "id": "cc6f81e9-4def-45c8-a91a-c2334a5d22e9",
           "state": "stub",
-          "id": "cc6f81e9-4def-45c8-a91a-c2334a5d22e9"
+          "description": "Recontextualizing the Fall as a necessary step for human experience and joy."
         },
         {
           "title": "Covenants",
-          "description": "How formal promises with God bind us to eternal power and perspective.",
-          "path": "instruction/covenants/covenants.md",
           "type": "instruction",
+          "path": "instruction/covenants/covenants.md",
+          "id": "affda945-b005-4705-999c-ce6dd27a8ba8",
           "state": "stub",
-          "id": "affda945-b005-4705-999c-ce6dd27a8ba8"
+          "description": "How formal promises with God bind us to eternal power and perspective."
         },
         {
           "title": "Spiritual Discernment",
-          "description": "Developing the ability to see things as they really are and will be.",
-          "path": "instruction/spiritual-discernment/spiritual-discernment.md",
           "type": "instruction",
+          "path": "instruction/spiritual-discernment/spiritual-discernment.md",
+          "id": "0794b9f6-62c1-4567-82ee-b03cfad7e334",
           "state": "stub",
-          "id": "0794b9f6-62c1-4567-82ee-b03cfad7e334"
+          "description": "Developing the ability to see things as they really are and will be."
         },
         {
           "title": "Foundational Faith",
-          "description": "Building a bedrock of belief that supports an eternal worldview.",
-          "path": "instruction/foundational-faith/foundational-faith.md",
           "type": "instruction",
+          "path": "instruction/foundational-faith/foundational-faith.md",
+          "id": "e4cefc5a-4660-4154-a9d6-b2e0867a01bd",
           "state": "stub",
-          "id": "e4cefc5a-4660-4154-a9d6-b2e0867a01bd"
+          "description": "Building a bedrock of belief that supports an eternal worldview."
         }
       ]
     },
     {
       "title": "The Infinite Atonement",
-      "description": "Focusing on the centrality of Jesus Christ in bridging the gap between mortality and eternity.",
       "topics": [
         {
           "title": "The Centrality of Christ",
-          "description": "Recognizing that all eternal thinking begins and ends with the Savior.",
-          "path": "instruction/the-centrality-of-christ/the-centrality-of-christ.md",
           "type": "instruction",
+          "path": "instruction/the-centrality-of-christ/the-centrality-of-christ.md",
+          "id": "246fa3d2-0831-4b5d-9201-7948184122d9",
           "state": "stub",
-          "id": "246fa3d2-0831-4b5d-9201-7948184122d9"
+          "description": "Recognizing that all eternal thinking begins and ends with the Savior."
         },
         {
           "title": "Gethsemane and Calvary",
-          "description": "Deepening our understanding of the price paid for our eternal freedom.",
-          "path": "instruction/gethsemane-and-calvary/gethsemane-and-calvary.md",
           "type": "instruction",
+          "path": "instruction/gethsemane-and-calvary/gethsemane-and-calvary.md",
+          "id": "5d3c0fa2-904c-4dd1-8cea-26db09c3c4c3",
           "state": "stub",
-          "id": "5d3c0fa2-904c-4dd1-8cea-26db09c3c4c3"
+          "description": "Deepening our understanding of the price paid for our eternal freedom."
         },
         {
           "title": "Grace and Works",
-          "description": "Balancing personal effort with the enabling power of Christ's grace.",
-          "path": "instruction/grace-and-works/grace-and-works.md",
           "type": "instruction",
+          "path": "instruction/grace-and-works/grace-and-works.md",
+          "id": "b5c0e740-4d40-49be-8f42-6fbaa14b80c9",
           "state": "stub",
-          "id": "b5c0e740-4d40-49be-8f42-6fbaa14b80c9"
+          "description": "Balancing personal effort with the enabling power of Christ's grace."
         },
         {
           "title": "Repentance",
-          "description": "Viewing repentance as a joyful privilege rather than a punishment.",
-          "path": "instruction/repentance/repentance.md",
           "type": "instruction",
+          "path": "instruction/repentance/repentance.md",
+          "id": "3b9486e9-7258-49d0-b01f-c1d25b378eb3",
           "state": "stub",
-          "id": "3b9486e9-7258-49d0-b01f-c1d25b378eb3"
+          "description": "Viewing repentance as a joyful privilege rather than a punishment."
         },
         {
           "title": "Healing from Sin",
-          "description": "The mechanics of spiritual cleansing and the restoration of the soul.",
-          "path": "instruction/healing-from-sin/healing-from-sin.md",
           "type": "instruction",
+          "path": "instruction/healing-from-sin/healing-from-sin.md",
+          "id": "22e53aef-9fe0-4769-8fa4-a5ff406119df",
           "state": "stub",
-          "id": "22e53aef-9fe0-4769-8fa4-a5ff406119df"
+          "description": "The mechanics of spiritual cleansing and the restoration of the soul."
         },
         {
           "title": "Healing from Unfairness",
-          "description": "How the Atonement compensates for the injustices of mortal life.",
-          "path": "instruction/healing-from-unfairness/healing-from-unfairness.md",
           "type": "instruction",
+          "path": "instruction/healing-from-unfairness/healing-from-unfairness.md",
+          "id": "3c0110a5-a2be-4a46-90e4-6866acc23357",
           "state": "stub",
-          "id": "3c0110a5-a2be-4a46-90e4-6866acc23357"
+          "description": "How the Atonement compensates for the injustices of mortal life."
         },
         {
           "title": "Power of the Resurrection",
-          "description": "The eternal significance of the reunion of body and spirit.",
-          "path": "instruction/power-of-the-resurrection/power-of-the-resurrection.md",
           "type": "instruction",
+          "path": "instruction/power-of-the-resurrection/power-of-the-resurrection.md",
+          "id": "5361b022-8ffc-459c-993d-3e64bbe94381",
           "state": "stub",
-          "id": "5361b022-8ffc-459c-993d-3e64bbe94381"
+          "description": "The eternal significance of the reunion of body and spirit."
         },
         {
           "title": "Intercessory Prayer",
-          "description": "Studying Christ's plea for us to be one with Him and the Father.",
-          "path": "instruction/intercessory-prayer/intercessory-prayer.md",
           "type": "instruction",
+          "path": "instruction/intercessory-prayer/intercessory-prayer.md",
+          "id": "f0d979ab-636b-488e-8965-e4c1d6bd27c4",
           "state": "stub",
-          "id": "f0d979ab-636b-488e-8965-e4c1d6bd27c4"
+          "description": "Studying Christ's plea for us to be one with Him and the Father."
         },
         {
           "title": "Relying on Christ",
-          "description": "Practical ways to lean on the Savior's strength in daily life.",
-          "path": "instruction/relying-on-christ/relying-on-christ.md",
           "type": "instruction",
+          "path": "instruction/relying-on-christ/relying-on-christ.md",
+          "id": "55457e53-1b15-4759-984e-f28b4c795e7b",
           "state": "stub",
-          "id": "55457e53-1b15-4759-984e-f28b4c795e7b"
+          "description": "Practical ways to lean on the Savior's strength in daily life."
         },
         {
           "title": "Submitting Our Wills",
-          "description": "The ultimate sacrifice of aligning our desires with God's eternal will.",
-          "path": "instruction/submitting-our-wills/submitting-our-wills.md",
           "type": "instruction",
+          "path": "instruction/submitting-our-wills/submitting-our-wills.md",
+          "id": "0aa9e4d5-09eb-4954-a9ac-75e4c4e05a27",
           "state": "stub",
-          "id": "0aa9e4d5-09eb-4954-a9ac-75e4c4e05a27"
+          "description": "The ultimate sacrifice of aligning our desires with God's eternal will."
         },
         {
           "title": "Becoming Like the Savior",
-          "description": "Attributes of Christ that we are invited to develop for eternity.",
-          "path": "instruction/becoming-like-the-savior/becoming-like-the-savior.md",
           "type": "instruction",
+          "path": "instruction/becoming-like-the-savior/becoming-like-the-savior.md",
+          "id": "d9f3f1e0-ffeb-4156-a7c9-9ac5a626b903",
           "state": "stub",
-          "id": "d9f3f1e0-ffeb-4156-a7c9-9ac5a626b903"
+          "description": "Attributes of Christ that we are invited to develop for eternity."
         },
         {
           "title": "Gift of the Holy Ghost",
-          "description": "The role of the Comforter in maintaining an eternal perspective.",
-          "path": "instruction/gift-of-the-holy-ghost/gift-of-the-holy-ghost.md",
           "type": "instruction",
+          "path": "instruction/gift-of-the-holy-ghost/gift-of-the-holy-ghost.md",
+          "id": "31f84fd7-4fcf-48b3-bebb-cc67cee176e0",
           "state": "stub",
-          "id": "31f84fd7-4fcf-48b3-bebb-cc67cee176e0"
+          "description": "The role of the Comforter in maintaining an eternal perspective."
         },
         {
           "title": "The Living Christ",
-          "description": "The reality of the Savior's current role and presence in our lives.",
-          "path": "instruction/the-living-christ/the-living-christ.md",
           "type": "instruction",
+          "path": "instruction/the-living-christ/the-living-christ.md",
+          "id": "0a274b47-d17f-4048-bba6-619373700056",
           "state": "stub",
-          "id": "0a274b47-d17f-4048-bba6-619373700056"
+          "description": "The reality of the Savior's current role and presence in our lives."
         }
       ]
     },
     {
       "title": "Purposeful Mortality",
-      "description": "Learning to see the specific challenges and opportunities of the physical world as essential training.",
       "topics": [
         {
           "title": "The School of Life",
-          "description": "Mortality as a classroom designed for experiential learning.",
-          "path": "instruction/the-school-of-life/the-school-of-life.md",
           "type": "instruction",
+          "path": "instruction/the-school-of-life/the-school-of-life.md",
+          "id": "24882734-0886-4f2a-a6a7-d378b03b81f8",
           "state": "stub",
-          "id": "24882734-0886-4f2a-a6a7-d378b03b81f8"
+          "description": "Mortality as a classroom designed for experiential learning."
         },
         {
           "title": "Stewardship of the Body",
-          "description": "Viewing the physical body as a sacred and eternal gift.",
-          "path": "instruction/stewardship-of-the-body/stewardship-of-the-body.md",
           "type": "instruction",
+          "path": "instruction/stewardship-of-the-body/stewardship-of-the-body.md",
+          "id": "3b263a4d-0286-410d-a4b6-bf4c2539b021",
           "state": "stub",
-          "id": "3b263a4d-0286-410d-a4b6-bf4c2539b021"
+          "description": "Viewing the physical body as a sacred and eternal gift."
         },
         {
           "title": "Time vs Eternity",
-          "description": "Differentiating between temporal urgency and eternal importance.",
-          "path": "instruction/time-vs-eternity/time-vs-eternity.md",
           "type": "instruction",
+          "path": "instruction/time-vs-eternity/time-vs-eternity.md",
+          "id": "91e3dd19-a864-440d-b732-5fdba053ee0e",
           "state": "stub",
-          "id": "91e3dd19-a864-440d-b732-5fdba053ee0e"
+          "description": "Differentiating between temporal urgency and eternal importance."
         },
         {
           "title": "Earthly Labors",
-          "description": "The spiritual value of work, creation, and contribution.",
-          "path": "instruction/earthly-labors/earthly-labors.md",
           "type": "instruction",
+          "path": "instruction/earthly-labors/earthly-labors.md",
+          "id": "8b2b5de6-22bd-4929-a5b4-f2d0fa11588e",
           "state": "stub",
-          "id": "8b2b5de6-22bd-4929-a5b4-f2d0fa11588e"
+          "description": "The spiritual value of work, creation, and contribution."
         },
         {
           "title": "Learning by Study and Faith",
-          "description": "Integrating intellectual and spiritual growth during mortality.",
-          "path": "instruction/learning-by-study-and-faith/learning-by-study-and-faith.md",
           "type": "instruction",
+          "path": "instruction/learning-by-study-and-faith/learning-by-study-and-faith.md",
+          "id": "4c0a3ba0-801b-41b2-b641-59b796b30a88",
           "state": "stub",
-          "id": "4c0a3ba0-801b-41b2-b641-59b796b30a88"
+          "description": "Integrating intellectual and spiritual growth during mortality."
         },
         {
           "title": "Beauty of Diversity",
-          "description": "Appreciating the variety of human experience as part of God's plan.",
-          "path": "instruction/beauty-of-diversity/beauty-of-diversity.md",
           "type": "instruction",
+          "path": "instruction/beauty-of-diversity/beauty-of-diversity.md",
+          "id": "a62c1d94-86e5-4408-bc4f-4cc203eb7814",
           "state": "stub",
-          "id": "a62c1d94-86e5-4408-bc4f-4cc203eb7814"
+          "description": "Appreciating the variety of human experience as part of God's plan."
         },
         {
           "title": "Developing Talents",
-          "description": "The eternal implications of the skills and abilities we nurture now.",
-          "path": "instruction/developing-talents/developing-talents.md",
           "type": "instruction",
+          "path": "instruction/developing-talents/developing-talents.md",
+          "id": "062aaf56-35cc-4670-b321-3607a0a2bc6a",
           "state": "stub",
-          "id": "062aaf56-35cc-4670-b321-3607a0a2bc6a"
+          "description": "The eternal implications of the skills and abilities we nurture now."
         },
         {
           "title": "Temporal and Spiritual Balance",
-          "description": "Navigating the demands of the world without losing sight of heaven.",
-          "path": "instruction/temporal-and-spiritual-balance/temporal-and-spiritual-balance.md",
           "type": "instruction",
+          "path": "instruction/temporal-and-spiritual-balance/temporal-and-spiritual-balance.md",
+          "id": "77d97292-ccd4-4d37-b7f5-65f8890223f3",
           "state": "stub",
-          "id": "77d97292-ccd4-4d37-b7f5-65f8890223f3"
+          "description": "Navigating the demands of the world without losing sight of heaven."
         },
         {
           "title": "Sanctification of Work",
-          "description": "How ordinary tasks can become holy when done with eternal intent.",
-          "path": "instruction/sanctification-of-work/sanctification-of-work.md",
           "type": "instruction",
+          "path": "instruction/sanctification-of-work/sanctification-of-work.md",
+          "id": "c5f6e1b4-f369-401f-8f82-bd957c40a066",
           "state": "stub",
-          "id": "c5f6e1b4-f369-401f-8f82-bd957c40a066"
+          "description": "How ordinary tasks can become holy when done with eternal intent."
         },
         {
           "title": "Purpose in Routine",
-          "description": "Finding divine meaning in the repetitive aspects of daily life.",
-          "path": "instruction/purpose-in-routine/purpose-in-routine.md",
           "type": "instruction",
+          "path": "instruction/purpose-in-routine/purpose-in-routine.md",
+          "id": "e1f018f2-c375-4488-924e-80bc4e413ffe",
           "state": "stub",
-          "id": "e1f018f2-c375-4488-924e-80bc4e413ffe"
+          "description": "Finding divine meaning in the repetitive aspects of daily life."
         },
         {
           "title": "Overcoming Distractions",
-          "description": "Identifying and minimizing 'noise' that obscures eternal vision.",
-          "path": "instruction/overcoming-distractions/overcoming-distractions.md",
           "type": "instruction",
+          "path": "instruction/overcoming-distractions/overcoming-distractions.md",
+          "id": "33745434-a8f8-4408-8da6-ca65b1d6f695",
           "state": "stub",
-          "id": "33745434-a8f8-4408-8da6-ca65b1d6f695"
+          "description": "Identifying and minimizing 'noise' that obscures eternal vision."
         },
         {
           "title": "Information Age Discernment",
-          "description": "Evaluating worldly trends through the lens of restored truth.",
-          "path": "instruction/information-age-discernment/information-age-discernment.md",
           "type": "instruction",
+          "path": "instruction/information-age-discernment/information-age-discernment.md",
+          "id": "9955cd83-6755-4bff-ad85-521b456253e1",
           "state": "stub",
-          "id": "9955cd83-6755-4bff-ad85-521b456253e1"
+          "description": "Evaluating worldly trends through the lens of restored truth."
         },
         {
           "title": "Mortality as Opportunity",
-          "description": "Shifting from 'enduring' life to actively utilizing every moment.",
-          "path": "instruction/mortality-as-opportunity/mortality-as-opportunity.md",
           "type": "instruction",
+          "path": "instruction/mortality-as-opportunity/mortality-as-opportunity.md",
+          "id": "64a765e2-a61c-4819-bd23-62a91772f0e5",
           "state": "stub",
-          "id": "64a765e2-a61c-4819-bd23-62a91772f0e5"
+          "description": "Shifting from 'enduring' life to actively utilizing every moment."
         }
       ]
     },
     {
       "title": "Transforming Trials into Triumphs",
-      "description": "Developing the spiritual resilience to find joy and growth in the midst of adversity.",
       "topics": [
         {
           "title": "Necessity of Opposition",
-          "description": "Why struggle is a required element of eternal growth.",
-          "path": "instruction/necessity-of-opposition/necessity-of-opposition.md",
           "type": "instruction",
+          "path": "instruction/necessity-of-opposition/necessity-of-opposition.md",
+          "id": "dc7af68d-fce8-4692-9ced-a86ad165fd8e",
           "state": "stub",
-          "id": "dc7af68d-fce8-4692-9ced-a86ad165fd8e"
+          "description": "Why struggle is a required element of eternal growth."
         },
         {
           "title": "Enduring to the End",
-          "description": "The art of keeping pace with faith through life's long haul.",
-          "path": "instruction/enduring-to-the-end/enduring-to-the-end.md",
           "type": "instruction",
+          "path": "instruction/enduring-to-the-end/enduring-to-the-end.md",
+          "id": "1fe02efd-12b7-4490-9f64-c47c64d2fad3",
           "state": "stub",
-          "id": "1fe02efd-12b7-4490-9f64-c47c64d2fad3"
+          "description": "The art of keeping pace with faith through life's long haul."
         },
         {
           "title": "Perspective on Illness",
-          "description": "Finding meaning and patience when the body fails.",
-          "path": "instruction/perspective-on-illness/perspective-on-illness.md",
           "type": "instruction",
+          "path": "instruction/perspective-on-illness/perspective-on-illness.md",
+          "id": "fa5c92be-ea17-4c8d-ab2d-37657003bfe9",
           "state": "stub",
-          "id": "fa5c92be-ea17-4c8d-ab2d-37657003bfe9"
+          "description": "Finding meaning and patience when the body fails."
         },
         {
           "title": "Mental and Emotional Struggles",
-          "description": "Navigating the 'dark night of the soul' with eternal hope.",
-          "path": "instruction/mental-and-emotional-struggles/mental-and-emotional-struggles.md",
           "type": "instruction",
+          "path": "instruction/mental-and-emotional-struggles/mental-and-emotional-struggles.md",
+          "id": "ea713152-6ec8-4778-a9b5-d6d7c5b94891",
           "state": "stub",
-          "id": "ea713152-6ec8-4778-a9b5-d6d7c5b94891"
+          "description": "Navigating the 'dark night of the soul' with eternal hope."
         },
         {
           "title": "Grief and Hope",
-          "description": "Processing loss while maintaining an assurance of eternal reunion.",
-          "path": "instruction/grief-and-hope/grief-and-hope.md",
           "type": "instruction",
+          "path": "instruction/grief-and-hope/grief-and-hope.md",
+          "id": "3e29481b-b39b-4a7e-bc72-35edad95d425",
           "state": "stub",
-          "id": "3e29481b-b39b-4a7e-bc72-35edad95d425"
+          "description": "Processing loss while maintaining an assurance of eternal reunion."
         },
         {
           "title": "Loneliness",
-          "description": "Bridging the gap of isolation through connection with the Divine.",
-          "path": "instruction/loneliness/loneliness.md",
           "type": "instruction",
+          "path": "instruction/loneliness/loneliness.md",
+          "id": "8b5fcfb7-e53a-4e5a-80ff-a50255878b5f",
           "state": "stub",
-          "id": "8b5fcfb7-e53a-4e5a-80ff-a50255878b5f"
+          "description": "Bridging the gap of isolation through connection with the Divine."
         },
         {
           "title": "Refining Fire",
-          "description": "Understanding how trials purify our character and desires.",
-          "path": "instruction/refining-fire/refining-fire.md",
           "type": "instruction",
+          "path": "instruction/refining-fire/refining-fire.md",
+          "id": "7bb6ed25-535e-4ae5-8bcf-183790b77a66",
           "state": "stub",
-          "id": "7bb6ed25-535e-4ae5-8bcf-183790b77a66"
+          "description": "Understanding how trials purify our character and desires."
         },
         {
           "title": "Patience in Timing",
-          "description": "Learning to trust God's schedule over our own mortal deadlines.",
-          "path": "instruction/patience-in-timing/patience-in-timing.md",
           "type": "instruction",
+          "path": "instruction/patience-in-timing/patience-in-timing.md",
+          "id": "3d461649-f3ad-45e1-99c6-ce8ba3c93d5e",
           "state": "stub",
-          "id": "3d461649-f3ad-45e1-99c6-ce8ba3c93d5e"
+          "description": "Learning to trust God's schedule over our own mortal deadlines."
         },
         {
           "title": "Forgiveness of Others",
-          "description": "The eternal freedom found in releasing bitterness and resentment.",
-          "path": "instruction/forgiveness-of-others/forgiveness-of-others.md",
           "type": "instruction",
+          "path": "instruction/forgiveness-of-others/forgiveness-of-others.md",
+          "id": "444e1a8c-6c19-4cc5-a597-2b783bb0e2eb",
           "state": "stub",
-          "id": "444e1a8c-6c19-4cc5-a597-2b783bb0e2eb"
+          "description": "The eternal freedom found in releasing bitterness and resentment."
         },
         {
           "title": "Resilience through Faith",
-          "description": "Building the internal capacity to bounce back from setbacks.",
-          "path": "instruction/resilience-through-faith/resilience-through-faith.md",
           "type": "instruction",
+          "path": "instruction/resilience-through-faith/resilience-through-faith.md",
+          "id": "a40f7f78-36bd-4c2f-9c7e-2f4092b12279",
           "state": "stub",
-          "id": "a40f7f78-36bd-4c2f-9c7e-2f4092b12279"
+          "description": "Building the internal capacity to bounce back from setbacks."
         },
         {
           "title": "Peace in Conflict",
-          "description": "Maintaining an eternal calm even in the midst of worldly turmoil.",
-          "path": "instruction/peace-in-conflict/peace-in-conflict.md",
           "type": "instruction",
+          "path": "instruction/peace-in-conflict/peace-in-conflict.md",
+          "id": "fb1d66a2-cf9d-4075-8604-d840e8a00356",
           "state": "stub",
-          "id": "fb1d66a2-cf9d-4075-8604-d840e8a00356"
+          "description": "Maintaining an eternal calm even in the midst of worldly turmoil."
         },
         {
           "title": "Strength of Weakness",
-          "description": "How admitting our limitations allows God's power to work in us.",
-          "path": "instruction/strength-of-weakness/strength-of-weakness.md",
           "type": "instruction",
+          "path": "instruction/strength-of-weakness/strength-of-weakness.md",
+          "id": "a7c410c6-1c00-4d2f-9d49-7bc559c00fd5",
           "state": "stub",
-          "id": "a7c410c6-1c00-4d2f-9d49-7bc559c00fd5"
+          "description": "How admitting our limitations allows God's power to work in us."
         },
         {
           "title": "Trials as Teachers",
-          "description": "Extracting specific lessons from our most difficult experiences.",
-          "path": "instruction/trials-as-teachers/trials-as-teachers.md",
           "type": "instruction",
+          "path": "instruction/trials-as-teachers/trials-as-teachers.md",
+          "id": "330867ce-24e7-40fb-89b8-7701ffe888e8",
           "state": "stub",
-          "id": "330867ce-24e7-40fb-89b8-7701ffe888e8"
+          "description": "Extracting specific lessons from our most difficult experiences."
         }
       ]
     },
     {
       "title": "The Eternal Family and Community",
-      "description": "Focusing on the relationships that endure beyond the grave and how to nurture them.",
       "topics": [
         {
           "title": "Family Proclamation",
-          "description": "Studying the foundational document on the eternal nature of the family.",
-          "path": "instruction/family-proclamation/family-proclamation.md",
           "type": "instruction",
+          "path": "instruction/family-proclamation/family-proclamation.md",
+          "id": "4160ac24-c0bf-4ed4-ba69-217856084273",
           "state": "stub",
-          "id": "4160ac24-c0bf-4ed4-ba69-217856084273"
+          "description": "Studying the foundational document on the eternal nature of the family."
         },
         {
           "title": "Celestial Marriage",
-          "description": "The covenant of marriage as the highest expression of eternal partnership.",
-          "path": "instruction/celestial-marriage/celestial-marriage.md",
           "type": "instruction",
+          "path": "instruction/celestial-marriage/celestial-marriage.md",
+          "id": "9030d2c9-9aa2-4cbc-98b5-c2bae7ddaa5d",
           "state": "stub",
-          "id": "9030d2c9-9aa2-4cbc-98b5-c2bae7ddaa5d"
+          "description": "The covenant of marriage as the highest expression of eternal partnership."
         },
         {
           "title": "Parenting with Vision",
-          "description": "Raising children with their eternal destiny in mind.",
-          "path": "instruction/parenting-with-vision/parenting-with-vision.md",
           "type": "instruction",
+          "path": "instruction/parenting-with-vision/parenting-with-vision.md",
+          "id": "46f39421-7a94-421b-be8c-de9bccdde6e0",
           "state": "stub",
-          "id": "46f39421-7a94-421b-be8c-de9bccdde6e0"
+          "description": "Raising children with their eternal destiny in mind."
         },
         {
           "title": "Ancestors and History",
-          "description": "Connecting with our past to strengthen our eternal identity.",
-          "path": "instruction/ancestors-and-history/ancestors-and-history.md",
           "type": "instruction",
+          "path": "instruction/ancestors-and-history/ancestors-and-history.md",
+          "id": "e1c80c84-1936-423c-9d0c-d445448e93af",
           "state": "stub",
-          "id": "e1c80c84-1936-423c-9d0c-d445448e93af"
+          "description": "Connecting with our past to strengthen our eternal identity."
         },
         {
           "title": "Law of Chastity",
-          "description": "Protecting the sacred powers of creation for eternal purposes.",
-          "path": "instruction/law-of-chastity/law-of-chastity.md",
           "type": "instruction",
+          "path": "instruction/law-of-chastity/law-of-chastity.md",
+          "id": "109141e1-5ed0-41ef-bcb1-7064378b65b8",
           "state": "stub",
-          "id": "109141e1-5ed0-41ef-bcb1-7064378b65b8"
+          "description": "Protecting the sacred powers of creation for eternal purposes."
         },
         {
           "title": "Building Zion",
-          "description": "Creating communities of one heart and one mind.",
-          "path": "instruction/building-zion/building-zion.md",
           "type": "instruction",
+          "path": "instruction/building-zion/building-zion.md",
+          "id": "105c5cb1-bad7-49cc-bcc8-68177688295b",
           "state": "stub",
-          "id": "105c5cb1-bad7-49cc-bcc8-68177688295b"
+          "description": "Creating communities of one heart and one mind."
         },
         {
           "title": "Ministering Charity",
-          "description": "Developing the pure love of Christ in our daily interactions.",
-          "path": "instruction/ministering-charity/ministering-charity.md",
           "type": "instruction",
+          "path": "instruction/ministering-charity/ministering-charity.md",
+          "id": "15213159-417d-4592-a80f-ac5b6890d6a6",
           "state": "stub",
-          "id": "15213159-417d-4592-a80f-ac5b6890d6a6"
+          "description": "Developing the pure love of Christ in our daily interactions."
         },
         {
           "title": "Eternal Friendships",
-          "description": "Nurturing bonds that will continue into the next life.",
-          "path": "instruction/eternal-friendships/eternal-friendships.md",
           "type": "instruction",
+          "path": "instruction/eternal-friendships/eternal-friendships.md",
+          "id": "0870e708-e794-4252-8306-b236a6d39c2d",
           "state": "stub",
-          "id": "0870e708-e794-4252-8306-b236a6d39c2d"
+          "description": "Nurturing bonds that will continue into the next life."
         },
         {
           "title": "Role of the Church",
-          "description": "The Church as a laboratory for practicing eternal principles.",
-          "path": "instruction/role-of-the-church/role-of-the-church.md",
           "type": "instruction",
+          "path": "instruction/role-of-the-church/role-of-the-church.md",
+          "id": "3096b239-5ef1-4dbb-a6b9-f55a0f652e77",
           "state": "stub",
-          "id": "3096b239-5ef1-4dbb-a6b9-f55a0f652e77"
+          "description": "The Church as a laboratory for practicing eternal principles."
         },
         {
           "title": "Unity in Diversity",
-          "description": "Finding strength in our differences within the body of Christ.",
-          "path": "instruction/unity-in-diversity/unity-in-diversity.md",
           "type": "instruction",
+          "path": "instruction/unity-in-diversity/unity-in-diversity.md",
+          "id": "f8898e06-2f6c-4133-bda1-89c9badbc2f1",
           "state": "stub",
-          "id": "f8898e06-2f6c-4133-bda1-89c9badbc2f1"
+          "description": "Finding strength in our differences within the body of Christ."
         },
         {
           "title": "Compassion for Others",
-          "description": "Seeing every individual as a soul of infinite worth.",
-          "path": "instruction/compassion-for-others/compassion-for-others.md",
           "type": "instruction",
+          "path": "instruction/compassion-for-others/compassion-for-others.md",
+          "id": "e5ca2f82-5ecc-4bfd-9d64-200d85addd0a",
           "state": "stub",
-          "id": "e5ca2f82-5ecc-4bfd-9d64-200d85addd0a"
+          "description": "Seeing every individual as a soul of infinite worth."
         },
         {
           "title": "Strengthening the Home",
-          "description": "Making the home a sanctuary of eternal perspective.",
-          "path": "instruction/strengthening-the-home/strengthening-the-home.md",
           "type": "instruction",
+          "path": "instruction/strengthening-the-home/strengthening-the-home.md",
+          "id": "8d749580-966c-461f-8e7e-179717a71669",
           "state": "stub",
-          "id": "8d749580-966c-461f-8e7e-179717a71669"
+          "description": "Making the home a sanctuary of eternal perspective."
         },
         {
           "title": "Sociality in Heaven",
-          "description": "The promise that our same sociality exists in the hereafter.",
-          "path": "instruction/sociality-in-heaven/sociality-in-heaven.md",
           "type": "instruction",
+          "path": "instruction/sociality-in-heaven/sociality-in-heaven.md",
+          "id": "fd4b42e1-f17e-4e7b-95f1-042ef2aa512f",
           "state": "stub",
-          "id": "fd4b42e1-f17e-4e7b-95f1-042ef2aa512f"
+          "description": "The promise that our same sociality exists in the hereafter."
         }
       ]
     },
     {
       "title": "Daily Discipleship and Rituals",
-      "description": "Establishing the habits that keep our minds stayed on things above.",
       "topics": [
         {
           "title": "Meaningful Prayer",
-          "description": "Moving beyond rote repetition to real communication with God.",
-          "path": "instruction/meaningful-prayer/meaningful-prayer.md",
           "type": "instruction",
+          "path": "instruction/meaningful-prayer/meaningful-prayer.md",
+          "id": "61f2c6a2-a3c7-4a9b-8c15-3584845810f8",
           "state": "stub",
-          "id": "61f2c6a2-a3c7-4a9b-8c15-3584845810f8"
+          "description": "Moving beyond rote repetition to real communication with God."
         },
         {
           "title": "Feasting on the Word",
-          "description": "Using scriptures as a daily source of eternal light.",
-          "path": "instruction/feasting-on-the-word/feasting-on-the-word.md",
           "type": "instruction",
+          "path": "instruction/feasting-on-the-word/feasting-on-the-word.md",
+          "id": "28c10aa2-ffd7-4ebe-920c-422a43eaf5bc",
           "state": "stub",
-          "id": "28c10aa2-ffd7-4ebe-920c-422a43eaf5bc"
+          "description": "Using scriptures as a daily source of eternal light."
         },
         {
           "title": "Power of Fasting",
-          "description": "Subjugating the physical to the spiritual for increased clarity.",
-          "path": "instruction/power-of-fasting/power-of-fasting.md",
           "type": "instruction",
+          "path": "instruction/power-of-fasting/power-of-fasting.md",
+          "id": "a503f06f-300f-436f-a17e-7d86721828c8",
           "state": "stub",
-          "id": "a503f06f-300f-436f-a17e-7d86721828c8"
+          "description": "Subjugating the physical to the spiritual for increased clarity."
         },
         {
           "title": "Sabbath Day Observance",
-          "description": "Making the Sabbath a delight and a sign of our eternal commitment.",
-          "path": "instruction/sabbath-day-observance/sabbath-day-observance.md",
           "type": "instruction",
+          "path": "instruction/sabbath-day-observance/sabbath-day-observance.md",
+          "id": "dc09004f-a929-4102-b00c-2ae4440c8301",
           "state": "stub",
-          "id": "dc09004f-a929-4102-b00c-2ae4440c8301"
+          "description": "Making the Sabbath a delight and a sign of our eternal commitment."
         },
         {
           "title": "Temple Worship",
-          "description": "Escaping the world to find eternal perspective in the House of the Lord.",
-          "path": "instruction/temple-worship/temple-worship.md",
           "type": "instruction",
+          "path": "instruction/temple-worship/temple-worship.md",
+          "id": "618af862-12eb-4b34-bce0-b4a7990ec960",
           "state": "stub",
-          "id": "618af862-12eb-4b34-bce0-b4a7990ec960"
+          "description": "Escaping the world to find eternal perspective in the House of the Lord."
         },
         {
           "title": "Living Covenants",
-          "description": "Integrating our sacred promises into every decision we make.",
-          "path": "instruction/living-covenants/living-covenants.md",
           "type": "instruction",
+          "path": "instruction/living-covenants/living-covenants.md",
+          "id": "bbe22036-ed79-4dce-9316-0850798cc4f3",
           "state": "stub",
-          "id": "bbe22036-ed79-4dce-9316-0850798cc4f3"
+          "description": "Integrating our sacred promises into every decision we make."
         },
         {
           "title": "Personal Revelation",
-          "description": "Learning the language of the Spirit for personal guidance.",
-          "path": "instruction/personal-revelation/personal-revelation.md",
           "type": "instruction",
+          "path": "instruction/personal-revelation/personal-revelation.md",
+          "id": "f23f336d-b49f-4275-84c6-3f8d08211299",
           "state": "stub",
-          "id": "f23f336d-b49f-4275-84c6-3f8d08211299"
+          "description": "Learning the language of the Spirit for personal guidance."
         },
         {
           "title": "Journaling",
-          "description": "Recording God's hand in our lives to build an eternal legacy.",
-          "path": "instruction/journaling/journaling.md",
           "type": "instruction",
+          "path": "instruction/journaling/journaling.md",
+          "id": "bfdd52af-cec3-4a28-b453-bcab30d94187",
           "state": "stub",
-          "id": "bfdd52af-cec3-4a28-b453-bcab30d94187"
+          "description": "Recording God's hand in our lives to build an eternal legacy."
         },
         {
           "title": "Music and Sacred Space",
-          "description": "Using environment and art to invite eternal thoughts.",
-          "path": "instruction/music-and-sacred-space/music-and-sacred-space.md",
           "type": "instruction",
+          "path": "instruction/music-and-sacred-space/music-and-sacred-space.md",
+          "id": "473a021f-3800-4a0a-8cd1-2e07189b01b8",
           "state": "stub",
-          "id": "473a021f-3800-4a0a-8cd1-2e07189b01b8"
+          "description": "Using environment and art to invite eternal thoughts."
         },
         {
           "title": "Service as Life",
-          "description": "Finding ourselves by losing ourselves in the service of others.",
-          "path": "instruction/service-as-life/service-as-life.md",
           "type": "instruction",
+          "path": "instruction/service-as-life/service-as-life.md",
+          "id": "682d95e2-b97d-4326-806a-87831111ca91",
           "state": "stub",
-          "id": "682d95e2-b97d-4326-806a-87831111ca91"
+          "description": "Finding ourselves by losing ourselves in the service of others."
         },
         {
           "title": "Consecration of Time",
-          "description": "Managing our most precious resource with an eternal focus.",
-          "path": "instruction/consecration-of-time/consecration-of-time.md",
           "type": "instruction",
+          "path": "instruction/consecration-of-time/consecration-of-time.md",
+          "id": "e5cec958-3333-4e45-ac82-01512ea80f8d",
           "state": "stub",
-          "id": "e5cec958-3333-4e45-ac82-01512ea80f8d"
+          "description": "Managing our most precious resource with an eternal focus."
         },
         {
           "title": "Spiritual Momentum",
-          "description": "Keeping the fire of faith burning through consistent small acts.",
-          "path": "instruction/spiritual-momentum/spiritual-momentum.md",
           "type": "instruction",
+          "path": "instruction/spiritual-momentum/spiritual-momentum.md",
+          "id": "acb02d4c-d013-486e-98d7-80099a796c83",
           "state": "stub",
-          "id": "acb02d4c-d013-486e-98d7-80099a796c83"
+          "description": "Keeping the fire of faith burning through consistent small acts."
         },
         {
           "title": "Rituals of Remembrance",
-          "description": "The importance of the Sacrament and other reminders of Christ.",
-          "path": "instruction/rituals-of-remembrance/rituals-of-remembrance.md",
           "type": "instruction",
+          "path": "instruction/rituals-of-remembrance/rituals-of-remembrance.md",
+          "id": "dadcd00a-c644-49b1-b903-e4d90809107c",
           "state": "stub",
-          "id": "dadcd00a-c644-49b1-b903-e4d90809107c"
+          "description": "The importance of the Sacrament and other reminders of Christ."
         }
       ]
     },
     {
       "title": "Rejoicing in Every Moment",
-      "description": "Cultivating the spiritual skill of finding joy regardless of external circumstances.",
       "topics": [
         {
           "title": "Theology of Joy",
-          "description": "Understanding that 'men are that they might have joy.'",
-          "path": "instruction/theology-of-joy/theology-of-joy.md",
           "type": "instruction",
+          "path": "instruction/theology-of-joy/theology-of-joy.md",
+          "id": "920c80f2-fb77-4706-ac42-d336a45f6c83",
           "state": "stub",
-          "id": "920c80f2-fb77-4706-ac42-d336a45f6c83"
+          "description": "Understanding that 'men are that they might have joy.'"
         },
         {
           "title": "Gratitude Lens",
-          "description": "How a thankful heart changes our perception of reality.",
-          "path": "instruction/gratitude-lens/gratitude-lens.md",
           "type": "instruction",
+          "path": "instruction/gratitude-lens/gratitude-lens.md",
+          "id": "7b546423-2813-424c-adf3-6571eee4758a",
           "state": "stub",
-          "id": "7b546423-2813-424c-adf3-6571eee4758a"
+          "description": "How a thankful heart changes our perception of reality."
         },
         {
           "title": "Mindfulness",
-          "description": "Being present in the 'now' as a child of God.",
-          "path": "instruction/mindfulness/mindfulness.md",
           "type": "instruction",
+          "path": "instruction/mindfulness/mindfulness.md",
+          "id": "9ce45206-4bb9-4956-995a-c1b099426742",
           "state": "stub",
-          "id": "9ce45206-4bb9-4956-995a-c1b099426742"
+          "description": "Being present in the 'now' as a child of God."
         },
         {
           "title": "God in Nature",
-          "description": "Finding evidence of the Divine in the world around us.",
-          "path": "instruction/god-in-nature/god-in-nature.md",
           "type": "instruction",
+          "path": "instruction/god-in-nature/god-in-nature.md",
+          "id": "127ad5fb-32f6-45e5-af8a-f4cfe4ad0dc1",
           "state": "stub",
-          "id": "127ad5fb-32f6-45e5-af8a-f4cfe4ad0dc1"
+          "description": "Finding evidence of the Divine in the world around us."
         },
         {
           "title": "Small Victories",
-          "description": "Celebrating daily growth and the quiet triumphs of faith.",
-          "path": "instruction/small-victories/small-victories.md",
           "type": "instruction",
+          "path": "instruction/small-victories/small-victories.md",
+          "id": "14e338c6-45bb-43f6-a566-1653a01719d0",
           "state": "stub",
-          "id": "14e338c6-45bb-43f6-a566-1653a01719d0"
+          "description": "Celebrating daily growth and the quiet triumphs of faith."
         },
         {
           "title": "Positive Heart",
-          "description": "Cultivating an optimistic spirit rooted in eternal promises.",
-          "path": "instruction/positive-heart/positive-heart.md",
           "type": "instruction",
+          "path": "instruction/positive-heart/positive-heart.md",
+          "id": "be8600ee-4989-49ec-9258-32dd485a41d5",
           "state": "stub",
-          "id": "be8600ee-4989-49ec-9258-32dd485a41d5"
+          "description": "Cultivating an optimistic spirit rooted in eternal promises."
         },
         {
           "title": "Hope as Anchor",
-          "description": "Using the hope of the future to stabilize the present.",
-          "path": "instruction/hope-as-anchor/hope-as-anchor.md",
           "type": "instruction",
+          "path": "instruction/hope-as-anchor/hope-as-anchor.md",
+          "id": "b0c89dba-af5f-4b1a-841b-9ada8771bc45",
           "state": "stub",
-          "id": "b0c89dba-af5f-4b1a-841b-9ada8771bc45"
+          "description": "Using the hope of the future to stabilize the present."
         },
         {
           "title": "Overcoming Fear",
-          "description": "Replacing mortal anxieties with eternal confidence.",
-          "path": "instruction/overcoming-fear/overcoming-fear.md",
           "type": "instruction",
+          "path": "instruction/overcoming-fear/overcoming-fear.md",
+          "id": "47e434cc-7334-488e-bd9b-152b13905ef4",
           "state": "stub",
-          "id": "47e434cc-7334-488e-bd9b-152b13905ef4"
+          "description": "Replacing mortal anxieties with eternal confidence."
         },
         {
           "title": "Living with Integrity",
-          "description": "The joy that comes from alignment between belief and action.",
-          "path": "instruction/living-with-integrity/living-with-integrity.md",
           "type": "instruction",
+          "path": "instruction/living-with-integrity/living-with-integrity.md",
+          "id": "5b91b570-470e-47b7-9a97-3f0d06d1d095",
           "state": "stub",
-          "id": "5b91b570-470e-47b7-9a97-3f0d06d1d095"
+          "description": "The joy that comes from alignment between belief and action."
         },
         {
           "title": "Cultivating Soft Hearts",
-          "description": "Remaining open and teachable through all of life's seasons.",
-          "path": "instruction/cultivating-soft-hearts/cultivating-soft-hearts.md",
           "type": "instruction",
+          "path": "instruction/cultivating-soft-hearts/cultivating-soft-hearts.md",
+          "id": "b0b265c1-25bc-422b-8dfe-21791a497d25",
           "state": "stub",
-          "id": "b0b265c1-25bc-422b-8dfe-21791a497d25"
+          "description": "Remaining open and teachable through all of life's seasons."
         },
         {
           "title": "Light of Christ",
-          "description": "Recognizing the goodness and light present in all people.",
-          "path": "instruction/light-of-christ/light-of-christ.md",
           "type": "instruction",
+          "path": "instruction/light-of-christ/light-of-christ.md",
+          "id": "c4f71e37-2edb-4e70-add4-1b841f386151",
           "state": "stub",
-          "id": "c4f71e37-2edb-4e70-add4-1b841f386151"
+          "description": "Recognizing the goodness and light present in all people."
         },
         {
           "title": "Contentment",
-          "description": "Finding peace with what we have while striving for what we can become.",
-          "path": "instruction/contentment/contentment.md",
           "type": "instruction",
+          "path": "instruction/contentment/contentment.md",
+          "id": "71bc8382-3187-4223-993b-634710c3729d",
           "state": "stub",
-          "id": "71bc8382-3187-4223-993b-634710c3729d"
+          "description": "Finding peace with what we have while striving for what we can become."
         },
         {
           "title": "Rejoicing in Affliction",
-          "description": "The advanced spiritual skill of finding joy even in trials.",
-          "path": "instruction/rejoicing-in-affliction/rejoicing-in-affliction.md",
           "type": "instruction",
+          "path": "instruction/rejoicing-in-affliction/rejoicing-in-affliction.md",
+          "id": "d3aa1a45-b5f7-4807-9ae6-daa6ddd8f28e",
           "state": "stub",
-          "id": "d3aa1a45-b5f7-4807-9ae6-daa6ddd8f28e"
+          "description": "The advanced spiritual skill of finding joy even in trials."
         }
       ]
     },
     {
       "title": "Eternal Legacy and Synthesis",
-      "description": "Preparing for the transition to the next life and completing the course capstone.",
       "topics": [
         {
           "title": "Preparing for the Next Life",
-          "description": "What it means to be ready to meet God.",
-          "path": "instruction/preparing-for-the-next-life/preparing-for-the-next-life.md",
           "type": "instruction",
+          "path": "instruction/preparing-for-the-next-life/preparing-for-the-next-life.md",
+          "id": "e0e770c1-81a2-452f-b803-0df711070974",
           "state": "stub",
-          "id": "e0e770c1-81a2-452f-b803-0df711070974"
+          "description": "What it means to be ready to meet God."
         },
         {
           "title": "The Spirit World",
-          "description": "Understanding our immediate destination after mortality.",
-          "path": "instruction/the-spirit-world/the-spirit-world.md",
           "type": "instruction",
+          "path": "instruction/the-spirit-world/the-spirit-world.md",
+          "id": "2d00cfd4-a43b-4a50-9b97-6bbbb58ad2b9",
           "state": "stub",
-          "id": "2d00cfd4-a43b-4a50-9b97-6bbbb58ad2b9"
+          "description": "Understanding our immediate destination after mortality."
         },
         {
           "title": "Degrees of Glory",
-          "description": "The expansive and merciful nature of our eternal home.",
-          "path": "instruction/degrees-of-glory/degrees-of-glory.md",
           "type": "instruction",
+          "path": "instruction/degrees-of-glory/degrees-of-glory.md",
+          "id": "891e2a87-5984-4b34-9fd9-3e3856a17e1c",
           "state": "stub",
-          "id": "891e2a87-5984-4b34-9fd9-3e3856a17e1c"
+          "description": "The expansive and merciful nature of our eternal home."
         },
         {
           "title": "Final Judgment",
-          "description": "A perspective on judgment as a day of healing and justice.",
-          "path": "instruction/final-judgment/final-judgment.md",
           "type": "instruction",
+          "path": "instruction/final-judgment/final-judgment.md",
+          "id": "6db20d64-0819-4fe8-958f-ee95b5a38a45",
           "state": "stub",
-          "id": "6db20d64-0819-4fe8-958f-ee95b5a38a45"
+          "description": "A perspective on judgment as a day of healing and justice."
         },
         {
           "title": "Heir with Christ",
-          "description": "The magnitude of our potential inheritance.",
-          "path": "instruction/heir-with-christ/heir-with-christ.md",
           "type": "instruction",
+          "path": "instruction/heir-with-christ/heir-with-christ.md",
+          "id": "7f3b4619-df23-4d7e-822c-ed6ccbe2cea7",
           "state": "stub",
-          "id": "7f3b4619-df23-4d7e-822c-ed6ccbe2cea7"
+          "description": "The magnitude of our potential inheritance."
         },
         {
           "title": "Sharing the Light",
-          "description": "Our responsibility to help others find eternal perspective.",
-          "path": "instruction/sharing-the-light/sharing-the-light.md",
           "type": "instruction",
+          "path": "instruction/sharing-the-light/sharing-the-light.md",
+          "id": "3e1851bd-23c8-49f4-a07d-c12b7fb631b7",
           "state": "stub",
-          "id": "3e1851bd-23c8-49f4-a07d-c12b7fb631b7"
+          "description": "Our responsibility to help others find eternal perspective."
         },
         {
           "title": "Mentoring Others",
-          "description": "Using our experience to strengthen the rising generation.",
-          "path": "instruction/mentoring-others/mentoring-others.md",
           "type": "instruction",
+          "path": "instruction/mentoring-others/mentoring-others.md",
+          "id": "89948435-e035-4733-9c5e-ce06eec24d76",
           "state": "stub",
-          "id": "89948435-e035-4733-9c5e-ce06eec24d76"
+          "description": "Using our experience to strengthen the rising generation."
         },
         {
           "title": "Gospel Culture",
-          "description": "Living as citizens of the kingdom while in the world.",
-          "path": "instruction/gospel-culture/gospel-culture.md",
           "type": "instruction",
+          "path": "instruction/gospel-culture/gospel-culture.md",
+          "id": "6534fc90-598a-4db1-a234-69fd3d04c158",
           "state": "stub",
-          "id": "6534fc90-598a-4db1-a234-69fd3d04c158"
+          "description": "Living as citizens of the kingdom while in the world."
         },
         {
           "title": "Second Coming Preparation",
-          "description": "Living with an eye toward the return of the King.",
-          "path": "instruction/second-coming-preparation/second-coming-preparation.md",
           "type": "instruction",
+          "path": "instruction/second-coming-preparation/second-coming-preparation.md",
+          "id": "e62da122-64d4-4033-8679-e50a1cebc3e8",
           "state": "stub",
-          "id": "e62da122-64d4-4033-8679-e50a1cebc3e8"
+          "description": "Living with an eye toward the return of the King."
         },
         {
           "title": "Capstone Project Introduction",
-          "description": "Guidelines for creating your Eternal Perspective Plan.",
-          "path": "instruction/capstone-project-introduction/capstone-project-introduction.md",
           "type": "instruction",
+          "path": "instruction/capstone-project-introduction/capstone-project-introduction.md",
+          "id": "3715d1b3-30d9-4e4c-9bb8-513768b0352d",
           "state": "stub",
-          "id": "3715d1b3-30d9-4e4c-9bb8-513768b0352d"
+          "description": "Guidelines for creating your Eternal Perspective Plan."
         },
         {
           "title": "Eternal Perspective Plan",
-          "description": "Drafting your personal roadmap for daily eternal thinking.",
-          "path": "instruction/eternal-perspective-plan/eternal-perspective-plan.md",
           "type": "instruction",
+          "path": "instruction/eternal-perspective-plan/eternal-perspective-plan.md",
+          "id": "8441c5e8-59b4-4bf5-af68-cc6c47806476",
           "state": "stub",
-          "id": "8441c5e8-59b4-4bf5-af68-cc6c47806476"
+          "description": "Drafting your personal roadmap for daily eternal thinking."
         },
         {
           "title": "Capstone Peer Review",
-          "description": "Sharing and refining your plan with fellow learners.",
-          "path": "instruction/capstone-peer-review/capstone-peer-review.md",
           "type": "instruction",
+          "path": "instruction/capstone-peer-review/capstone-peer-review.md",
+          "id": "98328c9e-0bf5-44d2-8296-64c40898ca90",
           "state": "stub",
-          "id": "98328c9e-0bf5-44d2-8296-64c40898ca90"
+          "description": "Sharing and refining your plan with fellow learners."
         },
         {
           "title": "Final Course Synthesis",
-          "description": "Summarizing the journey and committing to a life of eternal joy.",
-          "path": "instruction/final-course-synthesis/final-course-synthesis.md",
           "type": "instruction",
+          "path": "instruction/final-course-synthesis/final-course-synthesis.md",
+          "id": "15f2e222-035e-49f5-878b-b6a94ebcc51e",
           "state": "stub",
-          "id": "15f2e222-035e-49f5-878b-b6a94ebcc51e"
+          "description": "Summarizing the journey and committing to a life of eternal joy."
         }
       ]
     }
