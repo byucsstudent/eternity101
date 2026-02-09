@@ -19,7 +19,7 @@ This period of our existence was characterized by growth. We were not created ou
 
 Our time in the spirit world was a season of profound learning and growth. We were taught the laws of the universe, the nature of righteousness, and the plan that would allow us to become like our Father. We were not passive observers; we were active participants in our own progression. We dwelt with God and learned as we walked with him. We learned how to deal with a spiritual body as part of a heavenly family.
 
-At some point, our progress towards becoming like our Heavenly Father reached as far as we could take it in a spiritual existence. In order to continue our progression we needed to enter into a physical world where we could understand what it is like to have a physical body, create a family, and experience the pains and temptations of a physical world.
+At some point, our progress towards becoming like our Heavenly Father reached as far as we could take it in a spiritual existence. In order to continue our progression we needed to enter into a physical world where we could understand what it is like to have a physical body, create a family, and experience physical pains and temptations.
 
 In the spirit world, some individuals distinguished themselves through their faithfulness and diligence, being "foreordained" or set apart for specific missions and responsibilities on earth based on the character they developed before they were born. Foremost of these, was our spiritual brother Jesus Christ, who was chosen to fulfill the plan of our Heavenly Father by becoming our savior and redeemer from the fallen world that we would soon experience.
 
@@ -37,32 +37,34 @@ Furthermore, this perspective provides a "long view" of success and failure. In 
 
 ## Common Challenges and Solutions
 
-**Challenge: Feeling Insignificant or Lost**
-In a world of billions, it is easy to feel like an accidental byproduct of biology. This can lead to a lack of motivation or a sense of nihilism.
-> — Solution:** Reflect on the doctrine of "Foreordination." While this does not mean your life is scripted (you still havagency), it suggests that God knows you 
-personally and has prepared specific work for you to do. You were not sent here by chance; you were sent here by design.
+#### Challenge: Feeling Insignificant or Lost
 
-**Challenge: Reconciling Pre-mortal Choice with Suffering**
+In a world of billions, it is easy to feel like an accidental byproduct of biology. This can lead to a lack of motivation or a sense of nihilism.
+
+Perspective: Reflect on the doctrine of "Foreordination." While this does not mean your life is scripted (you still have agency), it suggests that God knows you personally and has prepared specific work for you to do. You were not sent here by chance; you were sent here by design.
+
+#### Challenge: Reconciling Pre-mortal Choice with Suffering
+
 Some struggle with the idea that they "chose" to come to a life filled with pain or inequality.
-> — Solution:** It is important to distinguish between choosing the *plan* and choosing every specific *circumstance*. Wchose to enter a world governed by natural laws and 
-the agency of others. We understood that mortality would be a "proving ground" where we would face opposition. The comfort lies in knowing that we deemed the potential growth and the joy of the resurrection worth the temporary risks of the journey.
+
+Perspective: It is important to distinguish between choosing the *plan* and choosing every specific *circumstance*. We chose to enter a world governed by natural laws and the agency of others. We understood that mortality would be a "proving ground" where we would face opposition. The comfort lies in knowing that we deemed the potential growth and the joy of the resurrection worth the temporary risks of the journey.
 
 ## Summary
 
 The doctrine of pre-mortal existence provides the essential "Why" behind our "What." We are not merely biological organisms; we are eternal beings with a rich history of growth and a divine pedigree. We lived as spirits in a heavenly home, learned at the feet of divine parents, and consciously chose to undergo the mortal experience to further our progression. Though the veil hides these memories for now, the attributes we developed then remain with us today. By viewing our lives through this eternal lens, we find the resilience to face trials, the humility to treat others as divine equals, and the hope to look forward to an eventual homecoming.
 
-***
+## Engagement Opportunity
 
-**Engagement Opportunity:**
-*Take a moment this week to observe someone you find difficult to get along with. Try to visualize them not as they are now, but as the noble spirit person they were before they came to earth. Notice how this shift in perspective changes your feelings of patience and empathy.*
+Take a moment this week to observe someone you find difficult to get along with. Try to visualize them not as they are now, but as the noble spirit person they were before they came to earth. Notice how this shift in perspective changes your feelings of patience and empathy.*
 
-**Further Reading and Resources:**
+## Further Reading and Resources
+
 *   *The Pearl of Great Price*, Book of Abraham, Chapter 3 (Discussion of "intelligences" and the "first estate").
 *   *The Holy Bible*, Jeremiah 1:5 (God knowing the prophet before he was formed in the womb).
 *   "The Family: A Proclamation to the World" (Official statement on the divine nature of the human family).
  
  
-### References
+## References
 
 > "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
 >
