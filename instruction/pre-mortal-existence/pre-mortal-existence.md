@@ -35,7 +35,7 @@ Understanding your pre-mortal roots changes how you view yourself and others. Wh
 
 Furthermore, this perspective provides a "long view" of success and failure. In the grand timeline of eternity, a bad day, a failed business venture, or even a chronic illness is a small moment in a very long journey. Because you know you have already succeeded in your "first estate" (the pre-mortal life) by choosing to follow God’s plan and come to earth, you can approach life with the confidence of a proven soul. You are not a stranger on earth trying to find a home; you are a traveler who has temporarily left home to gain the experience necessary to return with increased capacity.
 
-## Common Challenges and Solutions
+## Common Challenges and Perspectives
 
 #### Challenge: Feeling Insignificant or Lost
 
