@@ -12,44 +12,44 @@ This period of our existence was characterized by growth. We were not created ou
 
 > "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
 >
-> — **Jeremiah 1:5**
+> — [Jeremiah 1:5](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=eng&id=p5#p5)
 
 > "Where wast thou when I laid the foundations of the earth? ... When the morning stars sang together, and all the sons of God shouted for joy?"
 >
-> — **Job 38:4, 7**
+> — [Job 38:4, 7](https://www.churchofjesuschrist.org/study/scriptures/ot/job/38?lang=eng&id=p4,p7#p4)
 
 > "For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. Forasmuch then as we are the offspring of God..."
 >
-> — **Acts 17:28–29**
+> — [Acts 17:28–29](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/17?lang=eng&id=p28-p29#p28)
 
 > "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?"
 >
-> — **Hebrews 12:9** 
+> — [Hebrews 12:9](https://www.churchofjesuschrist.org/study/scriptures/nt/heb/12?lang=eng&id=p9#p9)
 
 > "And this is the manner after which they were ordained—being called and prepared from the foundation of the world according to the foreknowledge of God, on account of their exceeding faith and good works..."
 >
-> — **Alma 13:3** 
+> — [Alma 13:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/13?lang=eng&id=p3#p3)
 
 > "Behold, I am he who was prepared from the foundation of the world to redeem my people. ... And never have I showed myself unto man whom I have created, for never hath man believed in me as thou hast. Seest thou that ye are created after mine own image? Yea, even all men were created in the beginning after mine own image."
 >
-> — **Ether 3:14–17** 
+> — [Ether 3:14–17](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p14-p17#p14)
 
 > "Ye were also in the beginning with the Father; that which is Spirit, even the Spirit of truth... Man was also in the beginning with God. Intelligence, or the light of truth, was not created or made, neither indeed can be."
 >
-> — **Doctrine and Covenants 93:23, 29** 
+> — [Doctrine and Covenants 93:23, 29](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=eng&id=p2p29#p23)
 
-> "I observed that they were also among the noble and great ones who were chosen in the beginning to be rulers in the Church of God. Even before they were born, they, with many others, received their first lessons in the world of spirits 
-and were prepared to come forth in the due time of the Lord..."
+> "I observed that they were also among the noble and great ones who were chosen in the beginning to be rulers in the Church of God. Even before they were born, they, with many others, received their first lessons in the world of spirits
+> and were prepared to come forth in the due time of the Lord..."
 >
-> — **Doctrine and Covenants 138:55–56** 
+> — [Doctrine and Covenants 138:55–56](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=enid=p55-p56#p55)
 
 > "Now the Lord had shown unto me, Abraham, the intelligences that were organized before the world was; and among all these there were many of the noble and great ones; And God saw these souls that they were good, and he stood in the midst of them, and he said: These I will make my rulers..."
 >
-> — **Abraham 3:22–23** 
+> — [Abraham 3:22–23](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p22-p23#p22)
 
 > "And every plant of the field before it was in the earth, and every herb of the field before it grew. For I, the Lord God, created all things, of which I have spoken, spiritually, before they were naturally upon the face of the earth."
 >
-> — **Moses 3:5**
+> — [Moses 3:5](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/3?lang=eng&id=p5#p5)
 
 ## The Purpose of Premortal Learning
 
@@ -73,12 +73,12 @@ Furthermore, this perspective provides a "long view" of success and failure. In 
 
 **Challenge: Feeling Insignificant or Lost**
 In a world of billions, it is easy to feel like an accidental byproduct of biology. This can lead to a lack of motivation or a sense of nihilism.
-> — **Solution:** Reflect on the doctrine of "Foreordination." While this does not mean your life is scripted (you still have agency), it suggests that God knows you 
+> — Solution:** Reflect on the doctrine of "Foreordination." While this does not mean your life is scripted (you still havagency), it suggests that God knows you 
 personally and has prepared specific work for you to do. You were not sent here by chance; you were sent here by design.
 
 **Challenge: Reconciling Pre-mortal Choice with Suffering**
 Some struggle with the idea that they "chose" to come to a life filled with pain or inequality.
-> — **Solution:** It is important to distinguish between choosing the *plan* and choosing every specific *circumstance*. We chose to enter a world governed by natural laws and 
+> — Solution:** It is important to distinguish between choosing the *plan* and choosing every specific *circumstance*. Wchose to enter a world governed by natural laws and 
 the agency of others. We understood that mortality would be a "proving ground" where we would face opposition. The comfort lies in knowing that we deemed the potential growth and the joy of the resurrection worth the temporary risks of the journey.
 
 ## Summary
