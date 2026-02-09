@@ -2,8 +2,6 @@
 
 # Thinking eternally
 
-![Course Cover](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/cover.jpg)
-
 Welcome to a transformative journey that transcends the boundaries of time! In a world that often demands our immediate attention and pulls us into the frantic pace of the "now," it is easy to lose sight of the grand, divine design. This course is designed to help you lift your gaze and recalibrate your heart. By rooting our perspective in the restored gospel of Jesus Christ, we will explore how to see the complexities, joys, and even the heartaches of mortality through the lens of eternity.
 
 We aren't just here to survive the day; we are here to thrive and prepare for a glorious future as heirs of God. Throughout this experience, you will gain practical skills to transform your daily walk into a purposeful preparation for the life to come. You will discover that when we "think eternally," the heavy burdens of today become lighter, and the small joys of the present become more vibrant. Whether you are currently navigating the heights of success or the depths of trial, this course will empower you to find the divine purpose woven into every single moment.
