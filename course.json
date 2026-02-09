@@ -11,7 +11,9 @@
           "path": "README.md",
           "id": "84102e84-3af9-4882-b81c-64b27ba1669e",
           "state": "published",
-          "description": "Course introduction and objectives."
+          "interactions": [],
+          "description": "Course introduction and objectives.",
+          "commit": "d2d4c99d7d26ec6d59862e4ae01e9b4f899e19b4"
         },
         {
           "title": "Pre-mortal Existence",
