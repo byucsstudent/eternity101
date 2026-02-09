@@ -103,6 +103,6 @@ Take a moment this week to observe someone you find difficult to get along with.
 >
 > — [Abraham 3:22–23](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p22-p23#p22)
 
-> "And every plant of the field before it was in the earth, and every herb of the field before it grew. For I, the Lord God, created all things, of which I have spoken, spiritually, before they were naturally upon the face of the earth."
+> "And now, behold, I say unto you, that these are the generations of the heaven and of the earth, when they were created, in the day that I, the Lord God, made the heaven and the earth, And every plant of the field before it was in the earth, and every herb of the field before it grew. For I, the Lord God, created all things, of which I have spoken, spiritually, before they were naturally upon the face of the earth."
 >
-> — [Moses 3:5](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/3?lang=eng&id=p5#p5)
+> — [Moses 3:4-5](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/3?lang=eng&id=p5#p5)
